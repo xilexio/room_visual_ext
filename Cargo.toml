@@ -16,7 +16,7 @@ categories = ["visualization"]
 name = "room_visual_ext"
 
 [dependencies]
-screeps-game-api = "0"
+screeps-game-api = { git = "https://github.com/xilexio/screeps-game-api.git" }
 
 [profile.release]
 panic = "abort"
