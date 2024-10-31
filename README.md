@@ -41,7 +41,7 @@ For results like in the game, place roads before containers that are on them and
 ## Example
 
 Below is an example showcasing visualization of all supported structures at opacities 1.0 and 0.5.
-For comparison, we present how they look in the actual game.
+For comparison, it is presented how they look in the actual game.
 
 ![Screenshot of showcase of RoomVisualExt in-game](room_visual_ext_example.png)
 

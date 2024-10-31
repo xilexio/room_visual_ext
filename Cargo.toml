@@ -1,6 +1,6 @@
 [package]
 name = "room_visual_ext"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Xilexio <xilexio@xilexio.eu.org>"]
 edition = "2021"
 license = "MIT"
@@ -16,7 +16,7 @@ categories = ["visualization"]
 name = "room_visual_ext"
 
 [dependencies]
-screeps-game-api = "0.10"
+screeps-game-api = "0"
 
 [profile.release]
 panic = "abort"
